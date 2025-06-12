@@ -487,7 +487,7 @@ Implement a function called `wrapAdjective`:
 - You may call the parameter whatever you like, but its default value should
   be `"*"`.
 - Call example: `const encouragingPromptFunction = wrapAdjective("!!!")`
-
+wrapAdjective
 Thus a total call should be:
 
 ```js
